@@ -1,0 +1,3 @@
+mongodb+srv://dongquang:HWGxBa7ni6UVE6JY@User.mc0oyvt.mongodb.net/
+
+mongodb+srv://server_node:ta1c7SoGGyQol9KB@.mc0oyvt.mongodb.net/
